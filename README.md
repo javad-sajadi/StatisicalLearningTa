@@ -9,6 +9,16 @@ Official Teaching Assistant (TA) instructional laboratory curriculum, practical 
 
 ---
 
+## 📊 Course Methodology & Empirical Visualizations
+
+Below is the multi-panel visual showcase illustrating core statistical learning concepts covered across the curriculum:
+
+![Statistical Learning Courseware Showcase](statistical_learning_showcase.png)
+
+*Curriculum diagnostic panels demonstrating the theoretical and empirical Bias-Variance Tradeoff, non-linear Kernel SVM decision boundaries, cross-validated multi-model accuracy benchmarks, and empirical sample size learning curves.*
+
+---
+
 ## 📚 Curriculum & Notebook Syllabus
 
 The courseware progresses systematically from computational foundations to rigorous predictive modeling and validation:
@@ -53,16 +63,17 @@ jupyter notebook
 
 ```
 .
-├── TA0_Python.ipynb          # Module 0A: Modern Python Programming Foundations
-├── TA0_Numpy.ipynb           # Module 0B: Vectorized Linear Algebra & Array Computing
-├── TA0_Pandas.ipynb          # Module 0C: Exploratory Data Wrangling & Manipulation
-├── TA0_Matplotlib.ipynb      # Module 0D: Data Visualization & Scientific Plotting
-├── TA1_betterCodding.ipynb   # Module 1: Code Optimization & High-Performance Python
-├── TA2_modelselection.ipynb  # Module 2: Model Selection, Cross-Validation & Regularization
-├── TA3_Titanic.ipynb         # Module 3: End-to-End Classification Benchmark
-├── TA4_WineQuality.ipynb     # Module 4: Physicochemical Regression Case Study
-├── requirements.txt          # Python dependency specifications
-└── .gitignore                # Clean Git ignore rules for checkpoints and cache
+├── TA0_Python.ipynb                # Module 0A: Modern Python Programming Foundations
+├── TA0_Numpy.ipynb                 # Module 0B: Vectorized Linear Algebra & Array Computing
+├── TA0_Pandas.ipynb                # Module 0C: Exploratory Data Wrangling & Manipulation
+├── TA0_Matplotlib.ipynb            # Module 0D: Data Visualization & Scientific Plotting
+├── TA1_betterCodding.ipynb         # Module 1: Code Optimization & High-Performance Python
+├── TA2_modelselection.ipynb        # Module 2: Model Selection, Cross-Validation & Regularization
+├── TA3_Titanic.ipynb               # Module 3: End-to-End Classification Benchmark
+├── TA4_WineQuality.ipynb           # Module 4: Physicochemical Regression Case Study
+├── statistical_learning_showcase.png # Multi-panel theoretical & empirical concept preview
+├── requirements.txt                # Python dependency specifications
+└── .gitignore                      # Clean Git ignore rules for checkpoints and cache
 ```
 
 ---
